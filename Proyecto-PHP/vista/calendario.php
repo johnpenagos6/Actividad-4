@@ -45,7 +45,7 @@
             <a class="nav-link text-uppercase text-expanded" href="calendario.php">calendario</a>
           </li>
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="triunfos.php">triunfos</a>
+            <a class="nav-link text-uppercase text-expanded" href="conocenos.php">conocenos</a>
           </li>
           <li class="nav-item px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="galeria.php">galeria</a>

@@ -41,12 +41,11 @@
             <span class="sr-only">(current)</span>
             </a>
           </li>
-          </li>
           <li class="nav-item px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="calendario.php">calendario</a>
           </li>
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="triunfos.php">triunfos</a>
+            <a class="nav-link text-uppercase text-expanded" href="conocenos.php">conocenos</a>
           </li>
           <li class="nav-item px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="galeria.php">galeria</a>
@@ -54,11 +53,28 @@
           <li class="nav-item px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="https://docs.google.com/forms/d/e/1FAIpQLSfqlwXw8351uw3vGzDC_ovUMWrTQS-uVlgk0BOkNHXEJoNgOA/viewform?usp=sf_link">inscribete</a>
           </li>
-        </ul>
-        </ul>
       </div>
     </div>
   </nav>
+
+  <section class="page-section about-heading">
+    <div class="container">
+      <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="../img/about2.jpg" alt="">
+      <div class="about-heading-content">
+        <div class="row">
+          <div class="col-xl-9 col-lg-10 mx-auto">
+            <div class="bg-faded rounded p-5">
+              <h2 class="section-heading mb-4">
+                <span class="section-heading-lower">Sobre Nosotros</span>
+              </h2>
+              <p>El Club Deportivo Remo La Araña es un club modesto y humilde, fundado bajo esta denominación en noviembre de 2.014. Pero nuestra historia no comenzó ahí, ni mucho menos. Somos un grupo de amigos, de entre 20 y 30 años, que compartimos la pasión por este bonito deporte.</p>
+              <p class="mb-0">Anteriormente pertenecíamos a otro club, en el que empezamos a competir en 2007. Pero por diferentes motivos decidimos continuar por otro camino y así emprendimos esta nueva e ilusionante aventura como club propio.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
  
   <section class="page-section cta">
       <div class="container">
