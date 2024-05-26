@@ -76,14 +76,18 @@
             <span class="sr-only">(current)</span>
             </a>
           </li>
-          <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="conocenos.php">Conocenos</a>
           </li>
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="../controlador.php">Tienda</a>
+            <a class="nav-link text-uppercase text-expanded" href="calendario.php">calendario</a>
           </li>
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="">Galeria</a>
+            <a class="nav-link text-uppercase text-expanded" href="triunfos.php">triunfos</a>
+          </li>
+          <li class="nav-item px-lg-4">
+            <a class="nav-link text-uppercase text-expanded" href="galeria.php">galeria</a>
+          </li>
+          <li class="nav-item px-lg-4">
+            <a class="nav-link text-uppercase text-expanded" href="https://docs.google.com/forms/d/e/1FAIpQLSfqlwXw8351uw3vGzDC_ovUMWrTQS-uVlgk0BOkNHXEJoNgOA/viewform?usp=sf_link">inscribete</a>
           </li>
         </ul>
       </div>
