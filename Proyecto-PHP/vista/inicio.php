@@ -55,6 +55,9 @@
           <li class="nav-item px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="vista/calendario.php">calendario</a>
           </li>
+          <li class="nav-item px-lg-4">
+            <a class="nav-link text-uppercase text-expanded" href="vista/triunfos.php">triunfos</a>
+          </li>
         </ul>
       </div>
     </div>

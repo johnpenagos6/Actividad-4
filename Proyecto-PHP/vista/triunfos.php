@@ -41,6 +41,7 @@
             <span class="sr-only">(current)</span>
             </a>
           </li>
+          </li>
           <li class="nav-item px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="calendario.php">calendario</a>
           </li>
@@ -48,83 +49,47 @@
             <a class="nav-link text-uppercase text-expanded" href="triunfos.php">triunfos</a>
           </li>
         </ul>
+        </ul>
       </div>
     </div>
   </nav>
-  <section class="page-section about-heading">
-    <div class="container">
-      <div class="about-heading-content">
+ 
+  <section class="page-section cta">
+      <div class="container">
         <div class="row">
-          <div class="col-xl-9 col-lg-10 mx-auto">
-            <div class="bg-faded rounded p-5">
-              <h2 class="section-heading mb-4">
-                <span class="section-heading-lower">calendario</span>
+          <div class="col-xl-9 mx-auto">
+            <div class="cta-inner text-center rounded">
+              <h2 class="section-heading mb-5">
+                <span class="section-heading-lower">Historial en la Liga de Jábegas</span>
               </h2>
-              <ul>
-    <li>
-        <strong>Febrero 2024</strong>
-        <ul>
-            <li>15 de Febrero: Regata de Inauguración de Temporada en la Bahía de Santander</li>
-            <li>22 de Febrero: Torneo Regional de Remo en el Río Ebro</li>
-        </ul>
-    </li>
-    <li>
-        <strong>Marzo 2024</strong>
-        <ul>
-            <li>7 de Marzo: Competencia de Remo Indoor en el Gimnasio del Club</li>
-            <li>21 de Marzo: Desafío de Remo Costero en la Playa de la Concha, San Sebastián</li>
-        </ul>
-    </li>
-    <li>
-        <strong>Abril 2024</strong>
-        <ul>
-            <li>4 de Abril: Competencia de Remo Adaptado en el Embalse de Trasona</li>
-            <li>18 de Abril: Regata Internacional en el Puerto de Barcelona</li>
-        </ul>
-    </li>
-    <li>
-        <strong>Mayo 2024</strong>
-        <ul>
-            <li>2 de Mayo: Torneo de Remo Olímpico en el Canal Olímpico de Castelldefels</li>
-            <li>16 de Mayo: Desafío de Remo en Aguas Abiertas en la Costa Brava</li>
-        </ul>
-    </li>
-    <li>
-        <strong>Junio 2024</strong>
-        <ul>
-            <li>6 de Junio: Regata de Clubes en el Río Guadalquivir, Sevilla</li>
-            <li>20 de Junio: Competencia de Remo Joven en el Embalse de Mequinenza</li>
-        </ul>
-    </li>
-    <li>
-        <strong>Julio 2024</strong>
-        <ul>
-            <li>4 de Julio: Regata de Remo de Mar en el Puerto de Mahón, Menorca</li>
-            <li>18 de Julio: Desafío de Remo Tradicional en el Río Miño, Galicia</li>
-        </ul>
-    </li>
-    <li>
-        <strong>Agosto 2024</strong>
-        <ul>
-            <li>1 de Agosto: Torneo de Remo Master en el Lago de Banyoles</li>
-            <li>15 de Agosto: Regata de Celebración del Día de la Virgen del Carmen en el Puerto de Cudillero</li>
-        </ul>
-    </li>
-    <li>
-        <strong>Septiembre 2024</strong>
-        <ul>
-            <li>5 de Septiembre: Campeonato Nacional de Remo en el Embalse de Trasona</li>
-            <li>19 de Septiembre: Regata de Cierre de Temporada en la Bahía de Málaga</li>
-        </ul>
-    </li>
-</ul>
-              </div>
+              <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
+                <li class="list-unstyled-item list-hours-item d-flex">
+                  <h3>2009</h3>  Campeones de la Liga en 2009, en categoría sénior (con nuestro anterior club).  
+                </li>
+                <li class="list-unstyled-item list-hours-item d-flex">
+                  <h3>2015</h3>Campeones de la Liga en 2015, en categoría sénior (como “Asociación de Remo y Pala de Pedregalejo”).
+                </li>
+                <li class="list-unstyled-item list-hours-item d-flex">
+                  <h3>2016</h3>Campeones de la Liga en 2016, en categoría sénior. Invictos en las 15 regatas.
+                </li>
+                <li class="list-unstyled-item list-hours-item d-flex">
+                  <h3>2017</h3>Campeones de la Liga en 2017, en categoría sénior.
+                </li>
+                <li class="list-unstyled-item list-hours-item d-flex">
+                  <h3>2018</h3>Campeones de la Liga en 2018, en categoría sénior.
+                </li>
+                <li class="list-unstyled-item list-hours-item d-flex">
+                  <h3>2018</h3>Cuarto clasificado en 2018, en categoría veteranos.
+                </li>
+                <li class="list-unstyled-item list-hours-item d-flex">
+                  <h3>2018</h3>Cuarto clasificado en 2018, en categoría femenina.
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </section>
-
+    </section>
 
   
 
