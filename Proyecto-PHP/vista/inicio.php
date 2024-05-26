@@ -58,6 +58,9 @@
           <li class="nav-item px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="vista/triunfos.php">triunfos</a>
           </li>
+          <li class="nav-item px-lg-4">
+            <a class="nav-link text-uppercase text-expanded" href="https://docs.google.com/forms/d/e/1FAIpQLSfqlwXw8351uw3vGzDC_ovUMWrTQS-uVlgk0BOkNHXEJoNgOA/viewform?usp=sf_link">inscribete</a>
+          </li>
         </ul>
       </div>
     </div>
